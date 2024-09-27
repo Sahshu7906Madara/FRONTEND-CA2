@@ -1,0 +1,33 @@
+*{
+    background-color: black;
+    margin:8px;
+
+}
+
+.input{
+    width:400px;
+    
+}
+
+#Navigation {
+    color:#fff;
+    font-family:sans-serif;
+    font-size:12px;
+    cursor: pointer;
+    align-items: center;
+    padding:#FFF;
+
+}
+
+.subs{
+    color:rgb(130, 146, 146);
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+
+
+.belowtop{
+    display: flex;
+
+}
